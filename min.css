@@ -1,0 +1,185 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ .div-size{
+    max-width: 1200px;
+    width: 100%;
+    margin-top: 156px;
+
+}
+.foto{
+    max-width: 1200px;
+    width: 100%;
+    border-radius: 33.185px;
+}
+div{
+    margin: 0 auto;
+    background: #EBF8FE;
+}
+.first{
+    max-width: 937px;
+    width: 100%;
+    margin-top: 115px;
+    margin-bottom: 72px;
+}
+.pading {
+    padding: 40px 32px;
+    border-radius: 24px;
+
+
+}
+ h1{
+    color: #181D27;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
+    
+}
+.second{
+    max-width: 876px;
+    width: 100%;
+    padding-top: 24px;
+    padding-bottom: 24px;
+
+}
+
+.stylep{
+    color: #535862;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+}
+.size-textarea{
+    max-width: 500px;
+    width: 100%;
+
+
+    
+}
+.textreaflx{
+    display: flex;
+
+}
+.textarea{
+     border-radius: 8px;
+     border: 1px solid #D5D7DA;
+     background: #FFF;
+     padding: 12px 14px;
+     width: 300px;
+    
+     
+
+}
+.buttonsize{
+    max-width: 120px;
+     width: 100%;
+
+}
+.button-style{
+     font-size: 16px;
+     padding: 12px 18px;
+     border-radius: 8px;
+     border: 2px solid #FFF;
+     background: #007CB8;
+     margin-left: 24px;
+     
+     
+}
+.margi{
+    margin-left: 24px;
+
+}
+.formdiv{
+    max-width: 400px;
+    width: 100%;
+    padding: 40px 32px;
+}
+.privacy{
+    color: #535862;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    
+
+}
+.widht{
+    max-width: 300px;
+    width: 100%;
+}
+.formp{
+    color: #181D27;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    padding-bottom: 24px;
+
+}
+ span{
+    border-bottom: 2px;
+}
+
+    
+
+.formdiv{
+    max-width: 400px;
+    width: 100%;
+    
+}
+.formpading{
+    padding: 40px 32px;
+
+
+}
+.formdiva{
+    color: #6D5F8B;
+    max-width: 450px;
+    width: 100%;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    padding: 8px 16px;
+    border-radius: 8px;
+    margin-top: 8px;
+    margin-bottom: 24px;
+    border: 1px solid #380054;
+}
+.formdivb{
+    color: #1B003D;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    
+}
+.sizeform{
+    max-width: 400px;
+    width: 100%;
+    margin-top: 24px;
+    
+    
+
+}
+.redio-buttonstyle{
+    padding-right: 16px;
+    padding-bottom: 16px;
+    color: #380054;
+
+}
+.radio-textstyle{
+    color: #6D5F8B;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 16px;
+    margin-left: 11px;
+
+    
+}
+.radio-butoonstyle{
+    
+    margin-top: 16px;
+
+}
